@@ -1,0 +1,1 @@
+# 2026-VK-EDU-ITproject-12-Kaplanov-E
