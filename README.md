@@ -96,6 +96,7 @@ POST /api/seminar/book
   "error": "subscription_required",
   "message": "Нужна активная подписка от 2 месяцев"
 }
+```
 
 # ДЗ 4
 ## C4 - 1 уровень
