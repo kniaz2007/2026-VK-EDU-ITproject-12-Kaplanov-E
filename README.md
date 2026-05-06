@@ -64,7 +64,8 @@
 <img width="1492" height="590" alt="image" src="https://github.com/user-attachments/assets/addf4b0d-1ab4-457d-881a-4bd340cc99d6" />
 
 ## Фрейминги
-<img width="1218" height="521" alt="image" src="https://github.com/user-attachments/assets/4759e25f-0c6c-49ff-a76b-7b8f157d569b" />
+<img width="1705" height="715" alt="image" src="https://github.com/user-attachments/assets/b0e2c092-ddea-415c-97a7-a10055cbb8ce" />
+
 
 ## API-First (JSON-контракты)
 
