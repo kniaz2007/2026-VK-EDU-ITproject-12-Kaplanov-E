@@ -53,8 +53,8 @@
 ## 9. СКРЫТОЕ ПРЕИМУЩЕСТВО
 Я работаю в Школково репетитором по математике. Знаю изнутри, где реально теряют баллы ученики 65-85. Есть контакты ЦА. Конкуренты (Умскул, Тетрика) не могут быстро перестроиться — их бизнес-модель продавать один курс всем.
 # ДЗ 2
-### Roles, User stories, MoSCoW and MVP+MLP
+## Roles, User stories, MoSCoW and MVP+MLP
 <img width="1037" height="749" alt="image" src="https://github.com/user-attachments/assets/14cbc793-4b71-48d1-bccf-db1b63661cdc" />
-### Функциональные и нефункциональные требования
+## Функциональные и нефункциональные требования
 <img width="906" height="625" alt="image" src="https://github.com/user-attachments/assets/6109bc61-8ce2-4fd6-8b12-da6a383f036a" />
 
