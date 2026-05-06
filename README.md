@@ -86,12 +86,12 @@ POST /api/seminar/book
   "assistant_id": 1,
   "start_time": "2026-05-10T14:30:00Z"
 }
-Ответ (успех):
+Успех:
 {
   "status": "confirmed",
   "message": "Вы записаны"
 }
-Ответ (ошибка — нет подписки):
+Ошибка — нет подписки:
 {
   "error": "subscription_required",
   "message": "Нужна активная подписка от 2 месяцев"
