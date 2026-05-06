@@ -96,4 +96,11 @@ POST /api/seminar/book
   "error": "subscription_required",
   "message": "Нужна активная подписка от 2 месяцев"
 }
+# ДЗ 4
+## C4 - 1 уровень
+<img width="1119" height="704" alt="image" src="https://github.com/user-attachments/assets/fb223b7f-c236-4494-929b-ffc3aa65191c" />
+
+## C4 - 1 уровень
+<img width="986" height="710" alt="image" src="https://github.com/user-attachments/assets/c67960c0-4e92-41eb-b271-a0880772c71a" />
+
 
