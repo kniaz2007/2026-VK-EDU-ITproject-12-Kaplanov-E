@@ -75,15 +75,15 @@
 ```json
 {
   "slots": [
-    {"start_time": "2026-05-10T16:00:00Z"},
-    {"start_time": "2026-05-10T16:30:00Z"}
+    {"start_time": "2026-03-10T10:00:00Z"},
+    {"start_time": "2026-03-10T14:30:00Z"}
   ]
 }
 POST /api/seminar/book
 {
   "student_id": 123,
   "assistant_id": 1,
-  "start_time": "2026-05-10T16:00:00Z"
+  "start_time": "2026-05-10T14:30:00Z"
 }
 Ответ (успех):
 {
