@@ -59,3 +59,40 @@
 ## Функциональные и нефункциональные требования
 <img width="906" height="625" alt="image" src="https://github.com/user-attachments/assets/6109bc61-8ce2-4fd6-8b12-da6a383f036a" />
 
+# ДЗ 3
+## DDD и BDD
+<img width="1492" height="590" alt="image" src="https://github.com/user-attachments/assets/addf4b0d-1ab4-457d-881a-4bd340cc99d6" />
+
+## Фрейминги
+<img width="1218" height="521" alt="image" src="https://github.com/user-attachments/assets/4759e25f-0c6c-49ff-a76b-7b8f157d569b" />
+
+## API-First (JSON-контракты)
+
+Получить свободные слоты
+
+**GET /api/slots/free**
+**Ответ:**
+```json
+{
+  "slots": [
+    {"start_time": "2026-05-10T16:00:00Z"},
+    {"start_time": "2026-05-10T16:30:00Z"}
+  ]
+}
+POST /api/seminar/book
+{
+  "student_id": 123,
+  "assistant_id": 1,
+  "start_time": "2026-05-10T16:00:00Z"
+}
+Ответ (успех):
+{
+  "status": "confirmed",
+  "message": "Вы записаны"
+}
+Ответ (ошибка — нет подписки):
+{
+  "error": "subscription_required",
+  "message": "Нужна активная подписка от 2 месяцев"
+}
+
