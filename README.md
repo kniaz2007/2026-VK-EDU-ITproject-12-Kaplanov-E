@@ -71,9 +71,9 @@
 
 Получить свободные слоты
 
-**GET /api/slots/free**
 **Ответ:**
 ```json
+GET /api/slots/free
 {
   "slots": [
     {"start_time": "2026-03-10T10:00:00Z"},
